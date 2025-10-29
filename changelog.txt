@@ -1,1 +1,3 @@
-Sửa 1 số lỗi trong ứng dụng
+## v1.1 — 2025-10-27
+- Thêm cơ chế cập nhật tự động.
+- Bổ sung kiểm tra công cụ LaTeX.
